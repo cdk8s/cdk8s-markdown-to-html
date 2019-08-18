@@ -7,6 +7,8 @@ export default `
  * 英文换行 word-break: break-all;
  */
 .layout {  
+  color: #666666;
+  font-size:14px;
   font-family:-apple-system-font,BlinkMacSystemFont,"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue","Hiragino Sans GB",Arial,sans-serif;
 }
 
@@ -59,7 +61,7 @@ h2 span {
     height: 1.3em;
     display: inline-block;
     padding-right:12px;
-    background-image: url(https://s2.ax1x.com/2019/08/17/mu1YkT.png);
+    background-image: url(http://img.gitnavi.com/markdown/arrow.png);
     background-position: 99.5% 12px;
     background-size: initial;
     background-repeat: no-repeat;

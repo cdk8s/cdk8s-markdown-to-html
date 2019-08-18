@@ -2,7 +2,7 @@
 
 ## 效果演示
 
-![点击我o(∩_∩)o ](http://img.gitnavi.com/markdown/cdk8s-markdown-to-html-demo.gif)
+- [点击我查看o(∩_∩)o ](http://img.gitnavi.com/markdown/cdk8s-markdown-to-html-demo.gif)
 
 ## 仓库地址
 

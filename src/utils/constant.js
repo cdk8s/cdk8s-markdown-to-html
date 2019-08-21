@@ -2,7 +2,8 @@ export const CLIENT_ID = process.env.NODE_ENV === "development" ? "e791aa2a7a64b
 export const CLIENT_SECRET = process.env.NODE_ENV === "development" ? "e80cde65c7071286086077892f3336bc2a3f4576" : "dfd9fdc1da6a6b10e473280bf0a379513f1d154d";
 
 export const SM_MS_PROXY = "https://cors-anywhere.herokuapp.com/https://sm.ms/api/upload";
-export const UPLOAD_API = 'http://127.0.0.1:8091/springboot-base-demo/api/upyun/uploadImage';
+// 图床上传地址
+export const UPLOAD_API = '图床上传地址';
 export const ACCESS_TOKEN = "ACCESS_TOKEN";
 
 export const CONTENT = "content";

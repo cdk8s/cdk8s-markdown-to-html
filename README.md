@@ -10,6 +10,15 @@
 - <https://github.com/cdk8s/cdk8s-markdown-to-html>
 - <https://gitee.com/cdk8s/cdk8s-markdown-to-html>
 
+## 使用方法
+基于 react 项目, 请确保电脑有 node 环境, 项目文件夹内运行命令行, 执行下面命令.
+``` bash
+npm install
+```
+``` bash
+npm start
+```
+
 
 ## 背景
 

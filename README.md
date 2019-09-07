@@ -3,7 +3,7 @@
 
 ## 效果（Gif）
 
-![](http://img.gitnavi.com/markdown/cdk8s-markdown-to-html-demo.gif)
+- [点击我查看](http://img.gitnavi.com/markdown/cdk8s-markdown-to-html-demo.gif)
 
 ## 仓库地址
 

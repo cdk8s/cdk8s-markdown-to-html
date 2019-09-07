@@ -3,7 +3,7 @@
 
 ## 效果（Gif）
 
-- [点击我查看](http://img.gitnavi.com/markdown/cdk8s-markdown-to-html-demo.gif)
+![](http://img.gitnavi.com/markdown/cdk8s-markdown-to-html-demo.gif)
 
 ## 仓库地址
 
@@ -11,9 +11,24 @@
 - <https://gitee.com/cdk8s/cdk8s-markdown-to-html>
 
 ## 使用方法
-- [点我查看](https://github.com/cdk8s/cdk8s-markdown-to-html/issues/1)
 
+1. 安装 [nodejs](https://nodejs.org/zh-cn/) 
 
+2. 项目根路径执行 
+
+```
+npm config set registry https://registry.npm.taobao.org
+```
+
+3. 项目根路径执行 
+```
+npm install
+```
+
+4. 项目根路径执行 
+```
+npm start
+```
 
 ## 背景
 
